@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=piyushghante&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=piyushghante&style=flat-square&color=green" alt=""/>
 </h1>
 
 ### About Me:
