@@ -17,7 +17,7 @@
 </h1>
 
 ### About Me:
-Aspiring Software Engineer with a strong foundation in Machine Learning, Artificial Intelligence, and Backend Development. I have proven experience designing and implementing AI-driven solutions, with expertise in Python, C++, SQL, and deep learning frameworks. I enjoy enhancing user engagement and optimizing system performance.
+Aspiring Software Engineer. I have proven experience designing and implementing AI-driven solutions, with expertise in Python, C++, SQL, and deep learning frameworks. I enjoy enhancing user engagement and optimizing system performance.
 
 - 🔭 I’m currently pursuing a B.Tech. in Artificial Intelligence and Data Science at **Vishwakarma Institute of Technology, Pune**.
 - 🌱 I’m currently learning **Machine Learning** 
